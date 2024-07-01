@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCovisian", "TestCovisian\TestCovisian.csproj", "{4FB4AA29-C31C-4E26-B818-C35B966C19B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB4AA29-C31C-4E26-B818-C35B966C19B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB4AA29-C31C-4E26-B818-C35B966C19B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB4AA29-C31C-4E26-B818-C35B966C19B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB4AA29-C31C-4E26-B818-C35B966C19B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {189515C9-FAFA-454E-9879-2DA9E0F8E782}
+	EndGlobalSection
+EndGlobal
